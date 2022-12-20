@@ -8,3 +8,5 @@ Feature: Log Out from a profile
     And add items to the cart
     And logout from profile
     Then user verify that cart is empty
+
+
